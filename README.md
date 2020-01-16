@@ -17,3 +17,4 @@ Following files were used:
 ## Resources
 * https://docs.python.org/3/library/ 
 * https://docs.scipy.org/doc/numpy-1.13.0/user/basics.types.html 
+* https://guides.github.com/features/mastering-markdown/ 
