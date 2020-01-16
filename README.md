@@ -1,15 +1,19 @@
-### Date created
-Include the date you created this project and README file.
+v1.0 20200116
 
-### Project Title
-Replace the Project Title
+# Bikeshare
 
-### Description
-Describe what your project is about and what it does
+## What is it
+This python script allows you to explore bike share data from Chicago, New York City and Washington.
 
-### Files used
-Include the files used
+## How to run the script
+This script is written in python 3 and uses pandas, time and numpy. You will need those three packages to launch the script. To exlore the bikeshare data, launch the bikeshare.py from your terminal.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Files used
+Following files were used:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
+## Resources
+* https://docs.python.org/3/library/ 
+* https://docs.scipy.org/doc/numpy-1.13.0/user/basics.types.html 
